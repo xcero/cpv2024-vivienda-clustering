@@ -16,3 +16,17 @@ Este proyecto aplica técnicas de reducción de dimensionalidad (PCA, t-SNE, UMA
    ```bash
    git clone https://github.com/xcrero/cpv2024-vivienda-clustering.git
    cd cpv2024-vivienda-clustering
+
+   
+Los archivos son publicos solo llenar un registro 
+https://geoportal.bcr.gob.sv/pages/teg-descarga-de-base-de-datos-censal-csv
+# Obtención de datos
+
+Los archivos censales utilizados en este proyecto fueron descargados desde el [GeoPortal del Banco Central de Reserva de El Salvador](https://geoportal.bcr.gob.sv/pages/teg-descarga-de-base-de-datos-censal-csv), tras completar el formulario de registro de usuario. Se utilizaron los siguientes archivos:
+
+- `Datos.csv`: archivo original en formato CSV
+- `dataset_limpio.csv`: versión procesada para análisis
+
+Por razones de tamaño( 1.6 GB) y privacidad, estos archivos no se incluyen en el repositorio.
+
+
